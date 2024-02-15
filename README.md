@@ -24,5 +24,3 @@
 <li>Frameworks (Bootstrap)</li>
 <li>Design (Figma, Photoshop)</li>
 
-
-![Snake animation](https://github.com/seu-usuário-aqui/DouglasIde/blob/output/github-contribution-grid-snake.svg)
