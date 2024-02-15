@@ -14,11 +14,14 @@
   <img src="linguagens_programacao_title.jpg" alt="Imagem de título para Linguagens de Programação">
 </div>
 
-<h1>🗨️ Mais ferramentas que eu sei usar!!</h1>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<h1>🗨️ Principais Conhecimentos!!</h1>
 
 <li>Desenvolvimento Front-end (HTML, CSS, WordPress)</li>
 <li>Banco de Dados (Microsoft SQL Server)</li>
 <li>Cloud (Google Cloud, AWS)</li>
+<li>Frameworks (Bootstrap)</li>
 <li>Design (Figma, Photoshop)</li>
 
 
