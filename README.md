@@ -14,7 +14,7 @@
 
 <h1>🗨️ Principais Conhecimentos!!</h1>
 
-<li>Linguagens de Programação (Java, Python)</li>
+<li>Linguagens de Programação (Java, Python, C#)</li>
 <li>Desenvolvimento Front-end (HTML, CSS, WordPress)</li>
 <li>Banco de Dados (Microsoft SQL Server)</li>
 <li>Cloud (Google Cloud, AWS)</li>
