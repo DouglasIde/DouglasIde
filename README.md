@@ -143,14 +143,14 @@
 <h1 align="center">📊GitHub Stats</h1>
 
 <details>
-  <summary>💻GitHub Profile Stats</summary>
+  <summary>💻<b>GitHub Profile Stats</b></summary>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasIde&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasIde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
 </details>
 <details>
-  <summary>🗒️Activities</summary>
+  <summary>🗒️<b>Activities</b></summary>
   <img src="https://github.com/DouglasIde/DouglasIde/assets/110436292/f50c94af-92e5-4fda-9479-e78fd2d9d327">
 </details>
 
