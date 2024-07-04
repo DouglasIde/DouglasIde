@@ -140,7 +140,7 @@
   </tr>
 </table>
 
-<h1>📊GitHub Stats</h1>
+<h1 align="center">📊GitHub Stats</h1>
 
 <details>
   <summary>💻GitHub Profile Stats</summary>
