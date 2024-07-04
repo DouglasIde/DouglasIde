@@ -12,7 +12,56 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasIde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<h1>🗨️ Principais Conhecimentos!!</h1>
+<h1 align=center>⚙My favorite Tools and Technologies🌐</h1>
+<p>Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools that I am familiar with.</p>
+
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65">
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65">
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65">
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65">
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65">
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65">
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65">
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
 
 <li>Linguagens de Programação (Java, Python, C#)</li>
 <li>Desenvolvimento Front-end (HTML, CSS, WordPress)</li>
