@@ -7,11 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-yugo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglasymide@gmail.com)
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasIde&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasIde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
 <h1 align=center>⚙My favorite Tools and Technologies🌐</h1>
 <p>Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools that I am familiar with.</p>
 
@@ -144,4 +139,18 @@
     </td>
   </tr>
 </table>
+
+<h1>📊GitHub Stats</h1>
+
+<details>
+  <summary>💻GitHub Profile Stats</summary>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasIde&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasIde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </div>
+</details>
+<details>
+  <summary>🗒️Activities</summary>
+  <img src="https://github.com/DouglasIde/DouglasIde/assets/110436292/f50c94af-92e5-4fda-9479-e78fd2d9d327">
+</details>
 
