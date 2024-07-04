@@ -59,7 +59,46 @@
     </td>
   </tr>
   <tr>
-    
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=git">
+      <br>Git
+    </td>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=html">
+      <br>HTML
+    </td>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=css">
+      <br>CSS
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=bootstrap">
+      <br>Boostrap
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=angular">
+      <br>Angular
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=postgres">
+      <br>Postgres
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=mongodb">
+      <br>MongoDB
+    </td>
+        <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=dotnet">
+      <br>ASP.NET
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=spring">
+      <br>Spring
+    </td>
+        <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=wordpress">
+      <br>WordPress
+    </td>
   </tr>
 </table>
 
