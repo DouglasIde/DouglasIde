@@ -53,15 +53,8 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65">
       <br>AWS
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
-      <br>GitHub
-    </td>
   </tr>
+  
   <tr>
     <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=git">
@@ -99,6 +92,9 @@
       <img src="https://skillicons.dev/icons?i=spring">
       <br>Spring
     </td>
+  </tr>
+  
+  <tr>
       <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=wordpress">
       <br>WordPress
@@ -107,13 +103,45 @@
       <img src="https://skillicons.dev/icons?i=postman">
       <br>Postman
     </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=figma">
+      <br>Figma
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=ae">
+      <br>AfterEffects
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=ps">
+      <br>Photoshop
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=pr">
+      <br>Premiere
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=notion">
+      <br>Notion
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=gcp">
+      <br>GoogleCloud
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=gitlab">
+      <br>GitLab
+    </td>
+  </tr>
+  
+  <tr>
+        <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
+      <br>GitHub
+    </td>
   </tr>
 </table>
-
-<li>Linguagens de Programação (Java, Python, C#)</li>
-<li>Desenvolvimento Front-end (HTML, CSS, WordPress)</li>
-<li>Banco de Dados (Microsoft SQL Server)</li>
-<li>Cloud (Google Cloud, AWS)</li>
-<li>Frameworks (Bootstrap)</li>
-<li>Design (Figma, Photoshop)</li>
 
