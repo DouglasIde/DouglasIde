@@ -2,10 +2,16 @@
 
 <img src="background_presentation.gif" alt="Gif com a apresentação principal">
 
-<h1>Contato</h1>
+<h1 align="center">📱Contacts</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-yugo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglasymide@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/douglas-yugo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn Douglas Yugo">
+</a>
+<a href="https://www.instagram.com/douglasyugo/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+</p>
 
 <h1 align=center>⚙My favorite Tools and Technologies🌐</h1>
 <p>Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools that I am familiar with.</p>
