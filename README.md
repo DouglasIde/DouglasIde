@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/douglasyugo/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://www.youtube.com/@DouglasYugoDev">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
 </p>
 
 <h1 align=center>⚙My favorite Tools and Technologies🌐</h1>
